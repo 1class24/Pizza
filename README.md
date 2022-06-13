@@ -1,2 +1,1 @@
-# Pizza
-Thinkful pizza webpage
+# pizza
